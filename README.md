@@ -1,1 +1,1 @@
-# gj-dir
+gujarat-directory
